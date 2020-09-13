@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://example.com/es/sitemap.xml</loc>
-		
-	   	<lastmod>2017-11-13T11:58:39-05:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://example.com/de/sitemap.xml</loc>
-		
-	   	<lastmod>2017-11-13T11:58:39-05:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://example.com/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://techsavvy.net/projects/presto-superset/</loc>
+  </url>
+  
+  <url>
+    <loc>http://techsavvy.net/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://techsavvy.net/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://techsavvy.net/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://techsavvy.net/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://techsavvy.net/</loc>
+  </url>
+  
+  <url>
+    <loc>http://techsavvy.net/tags/</loc>
+  </url>
+  
+</urlset>

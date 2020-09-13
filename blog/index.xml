@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Introduction</title>
-    <link>http://example.com/blog/</link>
+    <link>http://techsavvy.net/blog/</link>
     <description>Recent content in Blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://techsavvy.net/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
